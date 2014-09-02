@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Paginator/Adapter
+END
+DbTableSelect.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Paginator/Adapter/DbTableSelect.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Paginator/Adapter/Array.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Paginator/Adapter/Interface.php
+END
+DbSelect.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Paginator/Adapter/DbSelect.php
+END
+Iterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Paginator/Adapter/Iterator.php
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Paginator/Adapter/Null.php
+END

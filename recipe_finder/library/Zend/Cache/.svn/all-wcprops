@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cache
+END
+Backend.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cache/Backend.php
+END
+Core.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cache/Core.php
+END
+Manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cache/Manager.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cache/Exception.php
+END

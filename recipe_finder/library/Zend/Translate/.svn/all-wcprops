@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Translate
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Translate/Exception.php
+END
+Plural.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Translate/Plural.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Translate/Adapter.php
+END

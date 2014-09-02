@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Analytics
+END
+DataEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Analytics/DataEntry.php
+END
+DataFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Analytics/DataFeed.php
+END
+AccountEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Analytics/AccountEntry.php
+END
+DataQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Analytics/DataQuery.php
+END
+AccountFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Analytics/AccountFeed.php
+END
+AccountQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Analytics/AccountQuery.php
+END

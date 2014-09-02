@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Search/Lucene/Document
+END
+OpenXml.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Search/Lucene/Document/OpenXml.php
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Search/Lucene/Document/Html.php
+END
+Pptx.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Search/Lucene/Document/Pptx.php
+END
+Docx.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Search/Lucene/Document/Docx.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Search/Lucene/Document/Exception.php
+END
+Xlsx.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Search/Lucene/Document/Xlsx.php
+END

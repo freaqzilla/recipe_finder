@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Feed/Pubsubhubbub/Model
+END
+ModelAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Feed/Pubsubhubbub/Model/ModelAbstract.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Feed/Pubsubhubbub/Model/Subscription.php
+END
+SubscriptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Feed/Pubsubhubbub/Model/SubscriptionInterface.php
+END

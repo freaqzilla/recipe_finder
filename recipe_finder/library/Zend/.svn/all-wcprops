@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Memory.php
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Json.php
+END
+Pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/View.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Date.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Layout.php
+END
+Gdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata.php
+END
+Oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Oauth.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mail.php
+END
+Paginator.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Paginator.php
+END
+InfoCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/InfoCard.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Filter.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Debug.php
+END
+Mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mime.php
+END
+ProgressBar.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/ProgressBar.php
+END
+Dojo.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Dojo.php
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Translate.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Exception.php
+END
+Uri.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Uri.php
+END
+Acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Acl.php
+END
+Barcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Barcode.php
+END
+Navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Navigation.php
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Form.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Application.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cache.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Feed.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Config.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Loader.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Registry.php
+END
+Serializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Serializer.php
+END
+OpenId.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/OpenId.php
+END
+Ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Log.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Session.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Queue.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Version.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Db.php
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Validate.php
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Currency.php
+END
+TimeSync.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/TimeSync.php
+END
+Markup.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Markup.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Locale.php
+END
+Crypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Crypt.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Auth.php
+END

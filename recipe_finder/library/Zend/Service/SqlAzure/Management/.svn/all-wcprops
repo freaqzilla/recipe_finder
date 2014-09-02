@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/SqlAzure/Management
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/SqlAzure/Management/Client.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/SqlAzure/Management/Exception.php
+END
+ServiceEntityAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/SqlAzure/Management/ServiceEntityAbstract.php
+END
+FirewallRuleInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/SqlAzure/Management/FirewallRuleInstance.php
+END
+ServerInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/SqlAzure/Management/ServerInstance.php
+END

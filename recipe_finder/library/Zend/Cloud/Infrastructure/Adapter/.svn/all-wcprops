@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/Infrastructure/Adapter
+END
+AbstractAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/Infrastructure/Adapter/AbstractAdapter.php
+END
+Ec2.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/Infrastructure/Adapter/Ec2.php
+END
+Rackspace.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/Infrastructure/Adapter/Rackspace.php
+END

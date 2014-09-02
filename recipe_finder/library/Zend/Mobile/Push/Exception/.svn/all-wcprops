@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception
+END
+InvalidTopic.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception/InvalidTopic.php
+END
+InvalidToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception/InvalidToken.php
+END
+InvalidAuthToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception/InvalidAuthToken.php
+END
+ServerUnavailable.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception/ServerUnavailable.php
+END
+DeviceQuotaExceeded.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception/DeviceQuotaExceeded.php
+END
+InvalidPayload.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception/InvalidPayload.php
+END
+QuotaExceeded.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception/QuotaExceeded.php
+END
+InvalidRegistration.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mobile/Push/Exception/InvalidRegistration.php
+END

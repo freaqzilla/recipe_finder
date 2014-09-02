@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Generator
+END
+GeneratorAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Generator/GeneratorAbstract.php
+END
+XmlWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Generator/XmlWriter.php
+END
+DomDocument.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Generator/DomDocument.php
+END

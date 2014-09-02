@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management
+END
+CertificateInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/CertificateInstance.php
+END
+OperationStatusInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/OperationStatusInstance.php
+END
+StorageServiceInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/StorageServiceInstance.php
+END
+SubscriptionOperationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/SubscriptionOperationInstance.php
+END
+AffinityGroupInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/AffinityGroupInstance.php
+END
+HostedServiceInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/HostedServiceInstance.php
+END
+LocationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/LocationInstance.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/Client.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/Exception.php
+END
+ServiceEntityAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/ServiceEntityAbstract.php
+END
+OperatingSystemInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/OperatingSystemInstance.php
+END
+OperatingSystemFamilyInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/OperatingSystemFamilyInstance.php
+END
+DeploymentInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/Management/DeploymentInstance.php
+END

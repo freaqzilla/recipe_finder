@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Config/Writer
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Config/Writer/Xml.php
+END
+Yaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Config/Writer/Yaml.php
+END
+FileAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Config/Writer/FileAbstract.php
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Config/Writer/Json.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Config/Writer/Array.php
+END
+Ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Config/Writer/Ini.php
+END

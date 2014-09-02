@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine
+END
+GetAsynchronousOperation.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/GetAsynchronousOperation.php
+END
+Deployment.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Deployment.php
+END
+Service.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Service.php
+END
+Certificate.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Certificate.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Storage.php
+END
+Package.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Package.php
+END

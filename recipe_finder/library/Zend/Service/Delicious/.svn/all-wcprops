@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/Delicious
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/Delicious/Exception.php
+END
+SimplePost.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/Delicious/SimplePost.php
+END
+PostList.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/Delicious/PostList.php
+END
+Post.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/Delicious/Post.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Oauth/Signature
+END
+Hmac.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Oauth/Signature/Hmac.php
+END
+Plaintext.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Oauth/Signature/Plaintext.php
+END
+Rsa.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Oauth/Signature/Rsa.php
+END
+SignatureAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Oauth/Signature/SignatureAbstract.php
+END

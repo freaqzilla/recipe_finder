@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl/Exception.php
+END
+BitLy.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl/BitLy.php
+END
+TinyUrlCom.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl/TinyUrlCom.php
+END
+IsGd.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl/IsGd.php
+END
+MetamarkNet.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl/MetamarkNet.php
+END
+Shortener.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl/Shortener.php
+END
+JdemCz.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl/JdemCz.php
+END
+AbstractShortener.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/ShortUrl/AbstractShortener.php
+END

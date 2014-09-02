@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Http/Header/Exception
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Http/Header/Exception/InvalidArgumentException.php
+END
+RuntimeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Http/Header/Exception/RuntimeException.php
+END

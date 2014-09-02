@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Soap/Client
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Soap/Client/Common.php
+END
+Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Soap/Client/Local.php
+END
+DotNet.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Soap/Client/DotNet.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Soap/Client/Exception.php
+END

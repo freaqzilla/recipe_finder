@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Test/PHPUnit/Db/Operation
+END
+Insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Test/PHPUnit/Db/Operation/Insert.php
+END
+Truncate.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Test/PHPUnit/Db/Operation/Truncate.php
+END
+DeleteAll.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Test/PHPUnit/Db/Operation/DeleteAll.php
+END

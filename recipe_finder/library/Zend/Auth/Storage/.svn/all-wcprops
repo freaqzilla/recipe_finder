@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Auth/Storage
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Auth/Storage/Session.php
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Auth/Storage/NonPersistent.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Auth/Storage/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Auth/Storage/Interface.php
+END

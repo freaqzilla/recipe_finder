@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mail/Protocol
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mail/Protocol/Exception.php
+END
+Pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mail/Protocol/Pop3.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mail/Protocol/Abstract.php
+END
+Smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mail/Protocol/Smtp.php
+END
+Imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Mail/Protocol/Imap.php
+END

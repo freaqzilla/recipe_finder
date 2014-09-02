@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps
+END
+MemberQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/MemberQuery.php
+END
+UserEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/UserEntry.php
+END
+UserFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/UserFeed.php
+END
+UserQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/UserQuery.php
+END
+EmailListEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/EmailListEntry.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/Query.php
+END
+EmailListFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/EmailListFeed.php
+END
+NicknameEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/NicknameEntry.php
+END
+EmailListRecipientEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/EmailListRecipientEntry.php
+END
+EmailListQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/EmailListQuery.php
+END
+NicknameFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/NicknameFeed.php
+END
+EmailListRecipientFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/EmailListRecipientFeed.php
+END
+NicknameQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/NicknameQuery.php
+END
+EmailListRecipientQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/EmailListRecipientQuery.php
+END
+OwnerEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/OwnerEntry.php
+END
+OwnerFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/OwnerFeed.php
+END
+GroupEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/GroupEntry.php
+END
+ServiceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/ServiceException.php
+END
+OwnerQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/OwnerQuery.php
+END
+GroupFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/GroupFeed.php
+END
+GroupQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/GroupQuery.php
+END
+MemberEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/MemberEntry.php
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/Error.php
+END
+MemberFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Gdata/Gapps/MemberFeed.php
+END

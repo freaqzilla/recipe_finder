@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/StorageService/Adapter
+END
+FileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/StorageService/Adapter/FileSystem.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/StorageService/Adapter/S3.php
+END
+Rackspace.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/StorageService/Adapter/Rackspace.php
+END
+Nirvanix.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/StorageService/Adapter/Nirvanix.php
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Cloud/StorageService/Adapter/WindowsAzure.php
+END

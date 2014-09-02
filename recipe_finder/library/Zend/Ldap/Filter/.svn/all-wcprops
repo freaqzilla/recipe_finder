@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter
+END
+Logical.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter/Logical.php
+END
+Mask.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter/Mask.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter/Exception.php
+END
+Not.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter/Not.php
+END
+Or.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter/Or.php
+END
+And.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter/And.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter/Abstract.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Ldap/Filter/String.php
+END

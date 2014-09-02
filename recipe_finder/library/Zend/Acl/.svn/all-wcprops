@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Acl
+END
+Resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Acl/Resource.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Acl/Exception.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Acl/Role.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Client
+END
+ServerIntrospection.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Client/ServerIntrospection.php
+END
+ServerProxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Client/ServerProxy.php
+END
+IntrospectException.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Client/IntrospectException.php
+END
+FaultException.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Client/FaultException.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Client/Exception.php
+END
+HttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/XmlRpc/Client/HttpException.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination
+END
+FitRectangle.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/FitRectangle.php
+END
+Unknown.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/Unknown.php
+END
+FitBoundingBoxHorizontally.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/FitBoundingBoxHorizontally.php
+END
+FitBoundingBoxVertically.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/FitBoundingBoxVertically.php
+END
+Explicit.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/Explicit.php
+END
+FitBoundingBox.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/FitBoundingBox.php
+END
+FitHorizontally.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/FitHorizontally.php
+END
+FitVertically.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/FitVertically.php
+END
+Fit.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/Fit.php
+END
+Named.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/Named.php
+END
+Zoom.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Pdf/Destination/Zoom.php
+END

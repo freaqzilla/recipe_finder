@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder/resources/PhpOnAzure.Web/bin
+END
+install-php.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder/resources/PhpOnAzure.Web/bin/install-php.cmd
+END
+add-environment-variables.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder/resources/PhpOnAzure.Web/bin/add-environment-variables.cmd
+END
+add-environment-variables.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder/resources/PhpOnAzure.Web/bin/add-environment-variables.ps1
+END

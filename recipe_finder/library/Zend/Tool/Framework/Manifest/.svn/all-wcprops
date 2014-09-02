@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest
+END
+ActionMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/ActionMetadata.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/Exception.php
+END
+Repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/Repository.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/Interface.php
+END
+Metadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/Metadata.php
+END
+ProviderManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/ProviderManifestable.php
+END
+ActionManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/ActionManifestable.php
+END
+Indexable.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/Indexable.php
+END
+MetadataManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/MetadataManifestable.php
+END
+ProviderMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Tool/Framework/Manifest/ProviderMetadata.php
+END

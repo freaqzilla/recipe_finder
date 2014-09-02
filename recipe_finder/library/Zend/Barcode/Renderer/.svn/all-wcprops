@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Barcode/Renderer
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Barcode/Renderer/Exception.php
+END
+Svg.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Barcode/Renderer/Svg.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Barcode/Renderer/Image.php
+END
+Pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Barcode/Renderer/Pdf.php
+END
+RendererAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/reconium/!svn/ver/1/branches/current/reconium/library/Zend/Barcode/Renderer/RendererAbstract.php
+END

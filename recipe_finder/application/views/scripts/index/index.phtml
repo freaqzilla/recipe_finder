@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Recipe Finder</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+        <script src="js/jquery-1.7.2.min.js"></script>
+
+
+
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <form id="file_upload_form" action="/index/upload-file/" >
+                        <div class="uploaddiv" style="display: block;height: auto" id="file" >Select 2 Files:One in csv format(fridge items) and other in txt (recipes as json string):</div>
+                        <input  type="file" id="upload_field" name="upload_field[]" multiple=""/>
+                        <!--<input  type="hidden" id="hidden_field" name="hidden_field" />-->
+
+
+                        <i style="margin-left:45%;margin-top:5%" class="fa fa-sort-down"></i>
+                        <br>
+                        <input class="uploaddiv" type="submit" value="Upload" />
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+        <script>
+            jQuery(document).ready(
+                    function() {
+                        jQuery('#file_upload_form').submit(function() {
+
+                            var selected_file = $('#upload_field').val();
+
+                            if (selected_file != '') {
+                                $('#msg').html('uploading...').fadeIn();
+                            }
+                            else {
+
+                                $('#msg').html('No File Selected').fadeIn();
+
+                            }
+                            if (document.getElementById('upload_frame') == null) {
+                                // create iframe
+                                $('body').append('<iframe id="upload_frame" name="upload_frame"></iframe>');
+                                $('#upload_frame').on('load', function() {
+                                    if ($(this).contents()[0].location.href.match($(this).parent('form').attr('action'))) {
+
+
+
+
+                                    }
+                                });
+                                $(this).attr('method', 'post');
+                                $(this).attr('enctype', 'multipart/form-data');
+                                $(this).attr('target', 'upload_frame').submit();
+                            }
+
+                        });
+                    }
+            );
+        </script>
+
+    </body>
+
+
+</html>
